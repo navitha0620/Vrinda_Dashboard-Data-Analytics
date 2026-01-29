@@ -54,6 +54,7 @@ This Vrinda Dashboard project demonstrates how raw sales data can be transformed
 ![Vrinda Dashboard](https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/blob/main/Vrinda_Dashboard.png)
 
 ---
-## Video
+##🎥 Video
+Watch the project demo video
 [![Watch the video](https://raw.githubusercontent.com/navitha0620/Vrinda_Dashboard-Data-Analytics/main/Thumbnail_virinda_sales.png)](https://raw.githubusercontent.com/https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/main/Vrinda%20annual%20report%202k22_Dashboard_SS_Recording.mp4)
 
