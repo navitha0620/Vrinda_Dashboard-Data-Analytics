@@ -45,7 +45,7 @@ This Vrinda Dashboard project demonstrates how raw sales data can be transformed
 ---
 
 ## 🚀 How to Use
-1. Open `Vrinda_Dashboard.xlsx` in Microsoft Excel.  
+1. Open <a href="https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/blob/main/Vrinda_Dashboard.xlsx">Vrinda Stores Data</a> in Microsoft Excel.  
 2. Click through the dashboard sheets.  
 3. Use slicers to filter data by month, category, or other criteria.
 
