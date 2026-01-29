@@ -15,9 +15,9 @@ The Vrinda Dashboard – Data Analytics project analyzes retail sales data to un
 ---
 
 ## 📁 Project Files
-- <a href="https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/main/Vrinda_Dashboard.xlsx">Vrinda Stores Data</a> – The main Excel dashboard file  
-- <a href="https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/main/Vrinda_Dashboard.png">Vrinda Dashboard Overview</a> – Screenshot of the dashboard  
-- <a href="https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/main/README.md">README.md</a>– Project documentation
+- <a href="https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/blob/main/Vrinda_Dashboard.xlsx">Vrinda Stores Data</a> – The main Excel dashboard file  
+- <a href="https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/blob/main/Vrinda_Dashboard.png">Vrinda Dashboard Overview</a> – Screenshot of the dashboard  
+- <a href="https://github.com/navitha0620/Vrinda_Dashboard-Data-Analytics/blob/main/README.md">README.md</a>– Project documentation
 ---
 
 ## 🛠️ Tools Used
